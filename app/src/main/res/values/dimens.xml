@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_holder_image_height">400dp</dimen>
+    <dimen name="view_holder_video_youtube_logo_width">100dp</dimen>
+    <dimen name="view_holder_margin_start">10dp</dimen>
+    <dimen name="view_holder_margin_end">10dp</dimen>
+    <dimen name="view_holder_margin_top">5dp</dimen>
+    <dimen name="view_holder_margin_bottom">5dp</dimen>
+    <dimen name="view_holder_separator_height">3dp</dimen>
+</resources>

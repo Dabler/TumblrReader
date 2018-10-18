@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TumblrReader</string>
+    <string name="error_message">Something went wrong. Check network settings and try again.</string>
+</resources>

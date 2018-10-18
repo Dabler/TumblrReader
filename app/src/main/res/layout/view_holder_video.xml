@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/view_holder_margin_start"
+    android:layout_marginTop="@dimen/view_holder_margin_top"
+    android:layout_marginEnd="@dimen/view_holder_margin_end"
+    android:layout_marginBottom="@dimen/view_holder_margin_bottom"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/holderTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" />
+
+    <ImageView
+        android:id="@+id/holderYoutubeLogoImageView"
+        android:layout_width="@dimen/view_holder_video_youtube_logo_width"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/youtube_logo" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_holder_separator_height"
+        android:background="@color/colorPrimaryDark" />
+</LinearLayout>
